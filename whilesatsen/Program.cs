@@ -113,7 +113,7 @@ namespace whilesatsen
                 kr = kr * (100 / rent + 1);
                 if (kr>goal)
                 {
-                    Console.WriteLine("Det tog {0} år innan saldot når {1}", y, kr);
+                    Console.WriteLine("Det tog {0} år innan saldot når {1}", y, kr); 
                 }
             }
 
